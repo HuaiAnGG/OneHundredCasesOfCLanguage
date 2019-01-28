@@ -1,5 +1,9 @@
 #include <stdio.h>
- 
+ /**
+ * @description:  
+ * @author: HuaiAngg
+ * @create: 2019-01-28 21:12
+ */
 int main (void)
 {
     int  i, j, m, n, x;
